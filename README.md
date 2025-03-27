@@ -16,16 +16,41 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
 
 ---
 
-## 🔥 Meine ausgewählten Projekte
+## 🚀 Meine Projekte
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhuongDasen&repo=User-Churn-Analysis)](https://github.com/PhuongDasen/User-Churn-Analysis)
+<div align="center">
+  
+<table>
+  <tr>
+    <td width="300px" valign="top">
+      <h3>🟥 <a href="https://github.com/PhuongDasen/User-Churn-Analysis">User-Churn-Analysis</a></h3>
+      <p>Created a report with Power BI to help managers discover the churn situation of customers.</p>
+    </td>
+    <td width="300px" valign="top">
+      <h3>🟩 <a href="https://github.com/PhuongDasen/Collection-Analysis">Collection-Analysis</a></h3>
+      <p>Debt recovery analysis for financial partners to support allocation of the debt portfolio.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="300px" valign="top">
+      <h3>🟧 <a href="https://github.com/PhuongDasen/Superstore-Sales-and-Expansion-strategy">Superstore-Sales-and-Expansion-strategy</a></h3>
+      <p>Support market expansion and product selection decisions for senior managers.</p>
+    </td>
+    <td width="300px" valign="top">
+      <h3>🟦 <a href="https://github.com/PhuongDasen/RFM-Analysis">RFM-Analysis</a></h3>
+      <p>Analyze customer value and group segmentation using RFM metrics.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="300px" valign="top">
+      <h3>🟫 <a href="https://github.com/PhuongDasen/Explore-Ecommerce-Dataset">Explore-Ecommerce-Dataset</a></h3>
+      <p>Utilized SQL in Google BigQuery to write queries and extract valuable ecommerce data.</p>
+    </td>
+    <td width="300px" valign="top">
+      <h3>🟪 <a href="https://github.com/PhuongDasen/Cohort-Analysis-How-to-Analyze-User-Retention">Cohort Analysis</a></h3>
+      <p>Analyze user engagement improvement over time with cohort retention techniques.</p>
+    </td>
+  </tr>
+</table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhuongDasen&repo=Collection-Analysis)](https://github.com/PhuongDasen/Collection-Analysis)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhuongDasen&repo=Superstore-Sales-and-Expansion-strategy)](https://github.com/PhuongDasen/Superstore-Sales-and-Expansion-strategy)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhuongDasen&repo=RFM-Analysis)](https://github.com/PhuongDasen/RFM-Analysis)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhuongDasen&repo=Explore-Ecommerce-Dataset)](https://github.com/PhuongDasen/Explore-Ecommerce-Dataset)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhuongDasen&repo=Cohort-Analysis-How-to-Analyze-User-Retention)](https://github.com/PhuongDasen/Cohort-Analysis-How-to-Analyze-User-Retention)
+</div>
