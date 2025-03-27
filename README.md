@@ -37,8 +37,8 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
       <p>Support market expansion and product selection decisions for senior managers.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3>🟦 <a href="https://github.com/PhuongDasen/RFM-Analysis">RFM-Analysis</a></h3>
-      <p>Analyze customer value and group segmentation using RFM metrics.</p>
+      <h3>🟦 <a href="https://github.com/PhuongDasen/RFM-Analysis">🎯 RFM Analysis (PYTHON)</a></h3>
+      <p>„Die RFM-Analyse" ist ein Teil der Marketing-Analyse und wird verwendet, um den Kundenwert zu analysieren. Sie hilft Unternehmen, jede Kundengruppe zu analysieren und die richtige Geschäftsstrategie zu entwickeln.</p>
     </td>
   </tr>
   <tr>
