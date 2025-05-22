@@ -47,7 +47,7 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
       <p>Utilized SQL in Google BigQuery to write queries and extract valuable ecommerce data.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3><a href="https://github.com/PhuongDasen/Cohort-Analysis-How-to-Analyze-User-Retention">👥 Cohort Analysis</a></h3>
+      <h3><a href="https://github.com/PhuongDasen/-PYTHON-Cohort-Analysis-How-to-analyze-User-Retention">👥 Cohort Analysis</a></h3>
       <p>Analyze user engagement improvement over time with cohort retention techniques.</p>
     </td>
   </tr>
