@@ -23,12 +23,12 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
 <table cellspacing="50" cellpadding="35" style="border-collapse: separate;">
   <tr>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3>🟥 <a href="https://github.com/PhuongDasen/User-Churn-Analysis">User-Churn-Analysis</a></h3>
-      <p>Created a report with Power BI to help managers discover the churn situation of customers.</p>
+      <h3>🟩 <a href="https://github.com/PhuongDasen/Energie Dashboard">Energie Dashboard</a></h3>
+      <p>Auf der Energie- und Klimadatenplattform (EKDP) visualisiert der Kanton Bern Erfolge auf dem Weg zur Klimaneutralität bis 2050. Energie- und Klimadaten können auf Gemeinde- oder Gebäudeebene nach vielfältigen Kriterien dargestellt werden. Damit steht mit der Plattform ein wichtiges Instrument zur Verfügung, das für die Förderung, das Monitoring sowie Reporting eingesetzt werden kann.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3>🟩 <a href="https://github.com/PhuongDasen/Collection-Analysis">Collection-Analysis</a></h3>
-      <p>Debt recovery analysis for financial partners to support allocation of the debt portfolio.</p>
+      <h3>🟥 <a href="https://github.com/PhuongDasen/User-Churn-Analysis">User-Churn-Analysis</a></h3>
+      <p>Created a report with Power BI to help managers discover the churn situation of customers.</p>
     </td>
   </tr>
   <tr>
