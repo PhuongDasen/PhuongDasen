@@ -27,27 +27,27 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
       <p>Auf der Energie- und Klimadatenplattform (EKDP) visualisiert der Kanton Bern Erfolge auf dem Weg zur Klimaneutralität bis 2050. Energie- und Klimadaten können auf Gemeinde- oder Gebäudeebene nach vielfältigen Kriterien dargestellt werden. Damit steht mit der Plattform ein wichtiges Instrument zur Verfügung, das für die Förderung, das Monitoring sowie Reporting eingesetzt werden kann.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3>🟥 <a href="https://github.com/PhuongDasen/User-Churn-Analysis">User-Churn-Analysis</a></h3>
+      <h3>🔁 <a href="https://github.com/PhuongDasen/User-Churn-Analysis">User-Churn-Analysis</a></h3>
       <p>Created a report with Power BI to help managers discover the churn situation of customers.</p>
     </td>
   </tr>
   <tr>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3>🟧 <a href="https://github.com/PhuongDasen/Superstore-Sales-and-Expansion-strategy">Superstore-Sales-and-Expansion-strategy</a></h3>
+      <h3>📈 <a href="https://github.com/PhuongDasen/Superstore-Sales-and-Expansion-strategy">Superstore-Sales-and-Expansion-strategy</a></h3>
       <p>Support market expansion and product selection decisions for senior managers.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3>🟦 <a href="https://github.com/PhuongDasen/RFM-Analysis">🎯 RFM Analysis (PYTHON)</a></h3>
+      <h3> <a href="https://github.com/PhuongDasen/RFM-Analysis">🎯 RFM Analysis (PYTHON)</a></h3>
       <p>„Die RFM-Analyse" ist ein Teil der Marketing-Analyse und wird verwendet, um den Kundenwert zu analysieren. Sie hilft Unternehmen, jede Kundengruppe zu analysieren und die richtige Geschäftsstrategie zu entwickeln.</p>
     </td>
   </tr>
   <tr>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3>🟫 <a href="https://github.com/PhuongDasen/Explore-Ecommerce-Dataset">Explore-Ecommerce-Dataset</a></h3>
+      <h3>🛒 <a href="https://github.com/PhuongDasen/Explore-Ecommerce-Dataset">Explore-Ecommerce-Dataset</a></h3>
       <p>Utilized SQL in Google BigQuery to write queries and extract valuable ecommerce data.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3>🟪 <a href="https://github.com/PhuongDasen/Cohort-Analysis-How-to-Analyze-User-Retention">Cohort Analysis</a></h3>
+      <h3>👥 <a href="https://github.com/PhuongDasen/Cohort-Analysis-How-to-Analyze-User-Retention">Cohort Analysis</a></h3>
       <p>Analyze user engagement improvement over time with cohort retention techniques.</p>
     </td>
   </tr>
