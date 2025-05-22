@@ -23,7 +23,7 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
 <table cellspacing="50" cellpadding="35" style="border-collapse: separate;">
   <tr>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3>[🔋 Energie-Dashboard](https://github.com/PhuongDasen/Energie-Dashboard-)</h3>
+      <h3>[🔋 Energie Dashboard für Kanton Bern](https://github.com/PhuongDasen/Energie-Dashboard-)</h3>
       <p>Auf der Energie- und Klimadatenplattform (EKDP) visualisiert der Kanton Bern Erfolge auf dem Weg zur Klimaneutralität bis 2050. Energie- und Klimadaten können auf Gemeinde- oder Gebäudeebene nach vielfältigen Kriterien dargestellt werden. Damit steht mit der Plattform ein wichtiges Instrument zur Verfügung, das für die Förderung, das Monitoring sowie Reporting eingesetzt werden kann.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
