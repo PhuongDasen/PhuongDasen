@@ -43,7 +43,7 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
   </tr>
   <tr>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3><a href="https://github.com/PhuongDasen/-SQL-Explore-Ecommerce-Dataset">🛒 Explore-Ecommerce-Dataset</a></h3>
+      <h3><a href="https://github.com/PhuongDasen/-SQL-Explore-Ecommerce-Dataset">🛒 Ecommerce User Behavior & Funnel Analysis (SQL-BigQuery)</a></h3>
       <p>Utilized SQL in Google BigQuery to write queries and extract valuable ecommerce data.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
