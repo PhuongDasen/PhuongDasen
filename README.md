@@ -48,7 +48,7 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
       <h3><a href="https://github.com/PhuongDasen/-PYTHON-Cohort-Analysis-How-to-analyze-User-Retention">👥 Cohort Analysis</a></h3>
-      <p>Analyze user engagement improvement over time with cohort retention techniques.</p>
+      <p>The goal is to help businesses improve customer retention strategies by identifying key factors that influence long-term user engagement</p>
     </td>
   </tr>
 </table>
