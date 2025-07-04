@@ -28,7 +28,7 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
       <h3><a href="https://github.com/PhuongDasen/User-Churn-Analysis">🔁 User-Churn-Analysis</a></h3>
-      <p>Created a report with Power BI to help managers discover the churn situation of customers.</p>
+      <p>Identify the customer churn situation and then can set some suitable retention strategies.</p>
     </td>
   </tr>
   <tr>
