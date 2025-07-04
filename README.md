@@ -34,7 +34,7 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
   <tr>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
       <h3><a href="https://github.com/PhuongDasen/Superstore-Sales">📈 Superstore Sales and Expansion Strategy</a></h3>
-      <p>Support market expansion and product selection decisions for senior managers.</p>
+      <p>analyze company-wide sales performance, highlight top-performing products and regions and assist senior management in identifying opportunities for market expansion</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
       <h3><a href="https://github.com/PhuongDasen/RFM-Analysis">🎯 E-Commerce Kundensegmentierung mit Python</a></h3>
