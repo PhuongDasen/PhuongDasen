@@ -43,11 +43,11 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
   </tr>
   <tr>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3><a href="https://github.com/PhuongDasen/-SQL-Explore-Ecommerce-Dataset">🛒 Ecommerce User Behavior & Funnel Analysis (SQL-BigQuery)</a></h3>
+      <h3><a href="https://github.com/PhuongDasen/-SQL-Explore-Ecommerce-Dataset">🛒 Ecommerce User Behavior & Funnel Analysis with SQL-BigQuery</a></h3>
       <p>It helps the business answer key questions around engagement metrics, purchasing behavior, and conversion funnels to support data-driven marketing and product decisions.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3><a href="https://github.com/PhuongDasen/-PYTHON-Cohort-Analysis-How-to-analyze-User-Retention">👥 Cohort Analysis</a></h3>
+      <h3><a href="https://github.com/PhuongDasen/-PYTHON-Cohort-Analysis-How-to-analyze-User-Retention">👥 Cohort Analysis with Python and Machine Learning </a></h3>
       <p>The goal is to help businesses improve customer retention strategies by identifying key factors that influence long-term user engagement</p>
     </td>
   </tr>
