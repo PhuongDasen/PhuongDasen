@@ -27,13 +27,13 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
       <p>Dieses interaktive Energie-Dashboard visualisiert relevante Energie- und Klimadaten auf Gemeindeebene im Kanton Bern.</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3><a href="https://github.com/PhuongDasen/User-Churn-Analysis">🔁 User-Churn-Analysis</a></h3>
+      <h3><a href="https://github.com/PhuongDasen/User-Churn-Analysis">🔁 User-Churn-Analysis with PowerBI</a></h3>
       <p>Identify the customer churn situation and then can set some suitable retention strategies.</p>
     </td>
   </tr>
   <tr>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3><a href="https://github.com/PhuongDasen/Superstore-Sales">📈 Superstore Sales and Expansion Strategy</a></h3>
+      <h3><a href="https://github.com/PhuongDasen/Superstore-Sales">📈 Superstore Sales and Expansion Strategy with PowerBI</a></h3>
       <p>analyze company-wide sales performance, highlight top-performing products and regions and assist senior management in identifying opportunities for market expansion</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
