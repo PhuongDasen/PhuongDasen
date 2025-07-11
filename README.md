@@ -33,7 +33,7 @@ Ich bin **Phuong Dasen**, Absolvent der UniGap akademische Schule mit Schwerpunk
   </tr>
   <tr>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
-      <h3><a href="https://github.com/PhuongDasen/Superstore-Sales">📈 Superstore Sales and Expansion Strategy with PowerBI</a></h3>
+      <h3><a href="https://github.com/PhuongDasen/Superstore-Sales">📈 Sales Performance & Market Expansion for a global Superstore with PowerBI</a></h3>
       <p>Analyze company-wide sales performance, highlight top-performing products and regions and assist senior management in identifying opportunities for market expansion</p>
     </td>
     <td width="500px" valign="top" style="border:5px solid #444; border-radius:30px; padding:20px;">
